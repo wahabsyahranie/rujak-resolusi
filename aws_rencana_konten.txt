@@ -2,3 +2,4 @@ Rencana konten aws
 -ini adalah after edit
 - fundamental struktur data dasar
 - PHP strukture
+- nambahkan kotlin
